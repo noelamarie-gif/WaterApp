@@ -16,8 +16,7 @@ public class WaterAppswing {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-// In your main method of WaterApp.java
+    //main method 
         new User().setVisible(true);
 
     }
